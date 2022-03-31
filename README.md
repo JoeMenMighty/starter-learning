@@ -1,5 +1,6 @@
 # starter-learning
 Repo created to get familiar with Git and it's uses.
+Repo was created online and then connected/ cloned to the local system.
 
 
 # added some lines to test my commit
